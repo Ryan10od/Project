@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(red,blue);
+    background-image: url(https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.row{
+    color: aliceblue;
+    font-size: larger;
+    margin-top: 20%;
+}
